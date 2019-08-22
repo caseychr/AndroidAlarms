@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android Alarms</string>
+
+    <string name="create_alarm">Create</string>
+    <string name="today">Today</string>
+    <string name="alarm_description_hint">Alarm_Description</string>
+</resources>

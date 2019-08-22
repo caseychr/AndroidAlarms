@@ -1,0 +1,39 @@
+ - Create MVP model - Learn model and create framework for it
+ - Create Alarm Model - Create Model, SQLite, DatabaseHelper and Lab
+ - RecycleView of Alarm List
+ - Create Alarm going off Fragment
+ - Create New Alarm Sliding Drawer from the bottom
+ - Create PopUps for Time, Days of the Week for create alarm
+ - Alarm Sounds Intent for Android Phone for each alarm
+ - Alarm Service - Pending Intent -> Alarm Manager -> Broadcast Intent/Receiver
+ - Notification - create notification for when alarm goes off
+ - Butterknife in Fragments
+ - Animations - Popup windows, deletion/addition of new alarm, sliding drawer for new alarm
+ - Create Drawable xml - Checkmarks for days
+ - ************* COUNTDOWN TIMER *************
+ - Create MVP model - Learn model and create framework for it
+ - Create Countdown timer model - Create Model, SQLite, DatabaseHelper and Lab
+ - RecyclerView of Countdown timers - Can have multiple countdown timers going at once
+ - Countdown Service that makes alarm sound off when at 0
+ - Notification - create notification for when alarm goes off
+ - Butterknife in Fragments
+ - Animations - Slide up when alarm is done
+ - ************* STOPWATCH *************
+ - Create MVP model - Learn model and create framework for it
+ - Create Countdown timer model - Create Model, SQLite, DatabaseHelper and Lab
+ - RecyclerView of Stopwatch laps -> laps get recorded and stopwatch keeps going
+ - Butterknife in Fragments
+ - Keep going when pause happening
+
+ 
+ - Multithreading so multiple alarms, stopwatches and countdown timer can happen at the same time
+
+ Want to utilize:
+ Services
+ Broadcast Intent/Receiver
+ SQLite
+ PopUps/Drawers
+ Animations
+ Notifications
+ Pending Intents
+ Butterknife
